@@ -41,7 +41,7 @@
         <Button
             android:layout_width="300dp"
             android:layout_height="50dp"
-            android:text="Otro boton mas usuario"
+            android:text="Otro boton mas de usuario"
             android:textSize="20dp"
             android:gravity="center"
             android:layout_gravity="center"/>
