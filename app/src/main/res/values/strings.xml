@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracNav</string>
+    <string name="title_activity_jardinero">Jardinero</string>
+    <string name="title_activity_usuario">Usuario</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings_jardinero">Jardinero</string>
+    <string name="action_settings_usuario">Usuario</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_servicio_jardinero">Servicio</string>
+    <string name="menu_servicio_usuario">Servicio</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
